@@ -1,5 +1,6 @@
-# Manatee
-## RUnning the application
+# Manatee Traffic Control Application
+
+## Running the application
 
 Pull Manatee web application image
 
