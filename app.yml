@@ -1,7 +1,7 @@
 version: '2'
 services:
     manatee-app:
-        image: fzsun316/manatee
+        image: fzsun316/manatee:0.2.0
         external_links:
             - manatee-mysql:mysql
         environment:
